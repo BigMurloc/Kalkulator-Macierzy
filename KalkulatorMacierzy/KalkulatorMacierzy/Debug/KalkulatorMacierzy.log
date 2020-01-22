@@ -1,0 +1,3 @@
+﻿  KalkulatorMacierzy.cpp
+D:\KalkulatorMacierzy\KalkulatorMacierzy\KalkulatorMacierzy.cpp(11,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  KalkulatorMacierzy.vcxproj -> D:\KalkulatorMacierzy\Debug\KalkulatorMacierzy.exe
